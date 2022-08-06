@@ -1,0 +1,2 @@
+# Django-Blogs
+The website is written using HTML5, CSS W3.CSS.4.15, Django 4.0.6 and Python 3.9.5 in Virtual Studio Code Editor on Ubuntu(Linux) platform. It is a basic blog website which deals with basic admin functions such as adding and removing users, posts, categories, tags, comments and replies. You as a user can perform tasks of adding blog posts, viewing blog posts, sign up, log in, log out, viewing your profile and updating images in both user profile as well as blog posts.
